@@ -22,7 +22,7 @@ const DUMMY_USERS = {
   '4': const User(
       id: '4',
       name: 'Antonino',
-      email: 'rosy@test.com',
+      email: 'antonino@test.com',
       avatarUrl:
           'https://cdn.pixabay.com/photo/2016/09/01/08/24/smiley-1635449_960_720.png'),
 };
